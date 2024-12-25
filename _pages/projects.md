@@ -20,6 +20,7 @@ author_profile: true
 
 - **Enhancing Public Transit Systems with Real-time Driver Behavior Analysis**  
   <span style="color:gray;">Technologies: Python, Power BI, ML, Flask, and React</span>
+  **Supervised by:** [Dr. Uthayasanker Thayasivam](https://rtuthaya.staff.uom.lk/)
 
   - This project is about identifying public transit driver behavior present in heterogeneous traffic conditions using GPS data.
   - The outcomes of this study are a clustering model, a forecasting model, and a real-time driver behavior dashboard.
