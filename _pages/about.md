@@ -25,5 +25,3 @@ redirect_from:
 2. **Public Transit Driver Behaviour Analysis Under Heterogeneous Road Traffic Conditions**  
    <span style="color:gray;">Authors: **Rukshan Athapaththu**, Gimhan Ranasinghe, Mandalawattage Kasun Pavithra, Uthayasanker Thayasivam</span>  
    Published in: Moratuwa Engineering Research Conference (MERCon)
-
-<!-- 3. **Cost Effective Attention Based Retrieval Augmented Generation for Domain Specific Teams** -->
