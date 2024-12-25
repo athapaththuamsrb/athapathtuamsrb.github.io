@@ -1,4 +1,4 @@
-# [Buddhi Ayesha's Academic Website](https://buddhiayesha2015.github.io)
+# [Rukshan Athapaththu's Academic Website](https://buddhiayesha2015.github.io)
 
 This is the source code for my personal academic website, built using the [academicpages](https://github.com/academicpages/academicpages.github.io) template. The website showcases my research, publications, projects, and more.
 
