@@ -11,7 +11,7 @@ title: "Rukshan Athapaththu"
 title_separator: "-"
 name: &name "Rukshan Athapaththu"
 description: &description "I love diving deep into Data Science and sharing my discoveries."
-url: https://athapaththuamsrb.github.io/athapathtuamsrb.github.io/
+url: https://athapaththuamsrb.github.io/athapathtuamsrb.github.io
 baseurl: "" # the subpath of the site, e.g. "/blog"
 repository: "athapaththuamsrb/athapaththuamsrb.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,7 +85,7 @@ author:
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=p_fJiXwAAAAJ&hl"
-  email: "buddhiayesha.13@cse.mrt.ac.lk"
+  email: "supunathapaththu.19@cse.mrt.ac.lk"
   researchgate: "https://www.researchgate.net/profile/Buddhi-Ayesha"
   semanticscholar: "https://www.semanticscholar.org/author/Buddhi-Ayesha/19236775"
   uri:
@@ -101,7 +101,7 @@ author:
   instagram:
   impactstory:
   lastfm:
-  linkedin: "buddhiayesharathnayaka"
+  linkedin: "rukshan-athapaththu-1260aa202"
   orcid:
   pinterest:
   soundcloud:
