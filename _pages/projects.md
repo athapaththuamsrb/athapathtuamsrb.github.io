@@ -28,15 +28,19 @@ author_profile: true
   - The outcomes of this study are a clustering model, a forecasting model, and a real-time driver behavior dashboard.
   - Contributed to all phases of this study.
 
-- **Inhalo - Breath Monitoring System**  
-  <span style="color:gray;">Technologies: Pattern Recognition, CNN, Machine Learning, PyTorch, IoT, Android, C/C++, MySQL</span>  
-  **Advised by:** [Dr. Shehan Perera](https://uom.lk/staff/Perera.AS), [Prof. Chandima Jeewandara](https://medical.sjp.ac.lk/chandima-jeewandara/), [Dr. Lakmali Amarasiri](https://www.res.cmb.ac.lk/physiology/wad.lakmali.amarasiri/), [Dr. Yamuna Rajapakse](https://www.res.cmb.ac.lk/anat/yamuna.rajapakse/)  
-  An Award Winning & Internationally recognized AI-enhanced IoT product targeting Asthma patients, designed to motivate patients to perform breathing exercises and use inhalers properly.
+- **CSE Caree Fair Web Site 2024**  
+  <span style="color:gray;">Technologies: React , Firebase , Tailwind CSS</span>
 
-- **Early Detection of Red Palm Weevil Attacks**  
-  <span style="color:gray;">Technologies: Audio Classification, TensorFlow, Python</span>  
-  **Advised by:** [Prof. Chandana Gamage](https://uom.lk/staff/Gamage.CD)  
-  Deep learning-based audio classifier for the early detection of Red Palm Weevil attacks on palm trees.
+  - A Web-based application that enables users to query candidates by their positions and names.
+  - Contributing to the creation of the front end for all student pages and data fetch for that.
+
+- **Metaphor Search Application**  
+  <span style="color:gray;">Technologies - React , Elasticsearch , Node.js</span>
+
+  - The objective of this project is to develop a metaphor search application.This main Objective consist of two Steps.
+    - **Step 1:** Creation of the Sinhala Poem Metaphor corpus
+    - **Step 2:** Development of a keyword-based metaphor search engine
+  - Led the comprehensive execution of both project phases.
 
 - **Face Mask Health Detection System**  
   <span style="color:gray;">Technologies: Kalman filter, Time Series Analysis, Android</span>  
