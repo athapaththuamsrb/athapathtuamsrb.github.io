@@ -10,17 +10,20 @@ author_profile: true
   - Developed a novel method to enhance hotel recommendation systems by integrating multi-source data, improving RAG sensitivity to domain-specific terms.
   - Addressed limitations of traditional models, increasing relevance and accuracy of hotel suggestions.
   - Currently preparing an academic publication on this work.
-- **NEGORATE AGENT SYSTEM (CHATBOT) AND inventory**  
+- **NEGORATE AGENT SYSTEM (CHATBOT) AND Inventory**  
   <span style="color:gray;">Technologies: Python, Auto gen , Prompt Engineering , Angular, Spring Boot, RL, Hibernate , Angular, GitLab , CI/CD pipeline , Microservices, SQL</span>
 
   - Developing a chatbot system for hotel bookings and services, integrated to enhance user experience and streamline operations across the platform.
+  - Introduced a self-designed multi-tenant architecture to enable support for multiple tenants, enhancing scalability and operational efficiency.
   - Designed multiple agent groups with LLM agents performing specific tasks like SQL query generation, room suggestions, and price negotiation.
   - Additionally, I developed inventory-related features.
 
-- **Computer Vision-based CCTV Traffic Analysis System and Video Annotation Tool**  
-  <span style="color:gray;">Technologies: OpenCV, YOLO, DeepSORT, TensorFlow, Keras, Angular, NodeJS</span>  
-  **Advised by:** [Dr. Shehan Perera](https://uom.lk/staff/Perera.AS), [Prof. Amal S. Kumarage](https://uom.lk/staff/Kumarage.KAS), [Dr. T. Sivakumar](https://uom.lk/staff/Sivakumar.T)  
-  Computer vision-based system for semi-automatic video annotation, vehicle object detecting, tracking, and analyzing traffic patterns in real-time using video data from CCTV footage.
+- **Enhancing Public Transit Systems with Real-time Driver Behavior Analysis**  
+  <span style="color:gray;">Technologies: Python, Power BI, ML, Flask, and React</span>
+
+  - This project is about identifying public transit driver behavior present in heterogeneous traffic conditions using GPS data.
+  - The outcomes of this study are a clustering model, a forecasting model, and a real-time driver behavior dashboard.
+  - Contributed to all phases of this study.
 
 - **Inhalo - Breath Monitoring System**  
   <span style="color:gray;">Technologies: Pattern Recognition, CNN, Machine Learning, PyTorch, IoT, Android, C/C++, MySQL</span>  
