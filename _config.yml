@@ -11,9 +11,9 @@ title: "Rukshan Athapaththu"
 title_separator: "-"
 name: &name "Rukshan Athapaththu"
 description: &description "I love diving deep into Data Science and sharing my discoveries."
-url: https://buddhiayesha2015.github.io
+url: https://athapaththuamsrb.github.io
 baseurl: "" # the subpath of the site, e.g. "/blog"
-repository: "buddhiayesha2015/buddhiayesha2015.github.io"
+repository: "athapaththuamsrb/athapaththuamsrb.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160

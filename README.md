@@ -1,4 +1,4 @@
-# [Rukshan Athapaththu's Academic Website](https://buddhiayesha2015.github.io)
+# [Rukshan Athapaththu's Academic Website](https://athapaththuamsrb.github.io)
 
 This is the source code for my personal academic website, built using the [academicpages](https://github.com/academicpages/academicpages.github.io) template. The website showcases my research, publications, projects, and more.
 
@@ -12,4 +12,4 @@ The content of this website is licensed under a [Creative Commons Attribution 4.
 
 ---
 
-🔗 **Visit the live website:** [https://buddhiayesha2015.github.io](https://buddhiayesha2015.github.io)
+🔗 **Visit the live website:** [https://athapaththuamsrb.github.io](https://athapaththuamsrb.github.io)
