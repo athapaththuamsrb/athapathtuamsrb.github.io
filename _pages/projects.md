@@ -4,13 +4,13 @@ title: "Projects"
 author_profile: true
 ---
 
-- **RECOMMENDATION AGENT AND ENGINE**  
+- **Recommendation Agent And Engine**  
    <span style="color:gray;">Technologies: Python, Prompt Engineering , NLP, RAG, weaviate
   </span>
   - Developed a novel method to enhance hotel recommendation systems by integrating multi-source data, improving RAG sensitivity to domain-specific terms.
   - Addressed limitations of traditional models, increasing relevance and accuracy of hotel suggestions.
   - Currently preparing an academic publication on this work.
-- **NEGORATE AGENT SYSTEM (CHATBOT) AND Inventory**  
+- **Negorate Agent System (Chatbot) And Inventory**  
   <span style="color:gray;">Technologies: Python, Auto gen , Prompt Engineering , Angular, Spring Boot, RL, Hibernate , Angular, GitLab , CI/CD pipeline , Microservices, SQL</span>
 
   - Developing a chatbot system for hotel bookings and services, integrated to enhance user experience and streamline operations across the platform.
