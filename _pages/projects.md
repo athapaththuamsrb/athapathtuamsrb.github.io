@@ -42,22 +42,38 @@ author_profile: true
     - **Step 2:** Development of a keyword-based metaphor search engine
   - Led the comprehensive execution of both project phases.
 
-- **Face Mask Health Detection System**  
-  <span style="color:gray;">Technologies: Kalman filter, Time Series Analysis, Android</span>  
-  **Advised by:** [Mr. Biman Liyanage](https://www.forbes.com/profile/biman-liyanage/)  
-  Kalman filter-based mobile app to monitor the CO2 level inside face masks in real-time for the Face Mask health detection system.
+- **Negorate Chatbot**  
+   <span style="color:gray;">Technologies - python, Run pod , Natural Language Processing (NLP),Prompt Engineering , RL</span>
+  **Supervised by:**  
+   [Dr. Subha Fernando](https://uom.lk/staff/Fernando.KSD)
 
-- **Legal Information Retrieval System**  
-  <span style="color:gray;">Technologies: NLP, Deep Learning, scikit-learn, pandas</span>  
-  **Advised by:** [Dr. Nisansa de Silva](https://nisansads.staff.uom.lk/), [Dr. Shehan Perera](https://uom.lk/staff/Perera.AS), [Dr. Chinthana Wimalasuriya](https://uom.lk/datasearch/members/dr-chinthana-wimalasuriya)  
-  Ontology-based information extraction framework for legal professionals.
+  - For this work we use LLAMA model and codeGen model.
+  - Here we mainly fine tune this model to dialog summarizing and Q&A (Speciality is this model direct to our business flow)
+  - Contributed as a developer in prompt engineering ,training and RL
 
-- **[Google Summer of Code: Add SQL support to Apache Gearpump](https://summerofcode.withgoogle.com/archive/2017/projects/6359040665845760)**  
-  <span style="color:gray;">Technologies: Scala, sbt, Apache Calcite, Apache Gearpump, Jira, Git</span>  
-  **Advised by:** [Mr. Tianlun Zhang](https://github.com/manuzhang)  
-  An enhancement project integrating Apache Calcite with Gearpump to enable SQL support, facilitating users unfamiliar with Scala or Java to efficiently utilize Gearpump's high-level DSL.
+- **Negorate Booking Engine**  
+   <span style="color:gray;">Technologies - Spring Boot , Hibernate , Angular, GitLab , CI/CD pipeline , Microservices</span>
 
-- **[Anomaly Prediction Using Unsupervised Machine Learning](https://github.com/wso2-incubator/automatic-anomaly-detection)**  
-  <span style="color:gray;">Technologies: WSO2 Stream Processor, WSO2 Machine Learner, WSO2 Data Analytics Server</span>  
-  **Advised by:** [Mr. Nirmal Fernando](https://wso2.com/about/team/nirmal-fernando/), [Dr. Srinath Perera](https://wso2.com/about/team/srinath-perera/)  
-  A comprehensive toolkit project leveraging the WSO2 Data Analytic Server and WSO2 Machine Learner to train models and forecast performance anomalies.
+  - Created a show booking summary and navigate to the payment gateway after confirming the book through Lia chatbot .
+  - I personally changed the backend schema architecture and manually updated the database.
+    Contributed as a developer in frontend , backend and deployment .
+
+- **NFT Marketplace**  
+  <span style="color:gray;">Technologies - Next JS, Solidity, MySQL , MUI</span>
+
+  - Created an NFT marketplace which is similar to OpenSea.
+  - Worked with solidity file to communicate with block chain.
+  - MySQL is used as the database, with Prisma as the 3rd party and the database is hosted in Planetscale.
+  - Contributed as a developer in both frontend and backend.
+
+- **Vehicle Collision Warning System**  
+   <span style="color:gray;">Technologies - Python , Open CV</span>
+
+  - A system to notify users of vehicle collisions by marking danger zones.
+  - YOLOv3 and OpenCV were used for object detection and image processing requirements. Kalman filter was used to predict the future position of the object.
+
+- **Pint OS Prject**  
+  <span style="color:gray;">Technologies - C</span>
+
+  - In this project, a simple interactive shell was implemented on the Pintos. The Thread library of Pintos was highly improved and user programs were enabled.
+  - Created functional and technical application documents.
