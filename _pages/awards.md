@@ -4,38 +4,19 @@ title: "Honors and Awards"
 author_profile: true
 ---
 
-* **Professor V.K. Samaranayake Research Grant**  
-  <span style="color:gray;">LK Domain Registry, Colombo, Sri Lanka | 2019
+- **Public Transit Driver Behaviour Analysis Under Heterogeneous Road Traffic Conditions**  
+   <span style="color:gray;">Conference: MERCon</span>
+  Nominated as Best Paper.
 
-* **Gold Winner - National Best Quality Software Awards**  
-  <span style="color:gray;">The Chartered Institute for IT, Colombo, Sri Lanka | 2017</span>  
-  Recognized by NBQSA, a prestigious event that acknowledges outstanding achievements in software development in Sri Lanka.
+- **Most Outstanding Sportsmen of the Year - Abeywickrama Challenge Trophy (2022 & 2023)**  
+  <span style="color:gray;">Donated by Prof. B.A. Abeywickrama, University of Moratuwa, Sri Lanka</span>
 
-* **World Finalists - Microsoft Imagine Cup**  
-  <span style="color:gray;">Microsoft Headquarters, Washington, United States | 2017</span>  
-  Microsoft's global competition fosters innovation and creativity among computer science undergraduates. Our project, 'Inhalo', was recognized for its innovation and has been successfully patented.
+- **Best All-Rounder Student (Sports & Academic) - Wijayasekara Challenge Trophy (2023)**  
+  <span style="color:gray;">Donated by Prof. Dayantha Wijayasekara, former Vice Chancellor, and Gold Medal presented by the Sports Council, University of Moratuwa, Sri Lanka</span>
 
-* **Winners - Microsoft Imagine Cup South East Asia Regional Rounds**  
-  <span style="color:gray;">Microsoft APAC, Manila, Philippines | 2017</span>
+- **Sahasak Nimavum – Winner (2024)**  
+  <span style="color:gray;">Organized by the National Inventions and Innovations Competition, Sri Lanka</span>
 
-* **University Award**  
-  <span style="color:gray;">Outstanding non-academic performance at University of Moratuwa, Sri Lanka | 2017</span>
-
-* **World Finalists - Air Asia Airvolution**  
-  <span style="color:gray;">Air Asia Headquarters, Kuala Lumpur, Malaysia | 2017</span>  
-  Airvolution 2017, an AirAsia regional hackathon designed to spearhead innovation in Big Data and Machine Learning across Asia.
-
-* **Winners - Google I/O Extended**  
-  <span style="color:gray;">Google Developer Group, Colombo, Sri Lanka | 2016</span>  
-  Google I/O Extended 2016, the first ever Biggest Virtual Hackathon in Sri Lanka, a challenging 24-hour competition, with our product 'Smart Wallet'.
-
-* **University Award**  
-  <span style="color:gray;">Outstanding non-academic performance at University of Moratuwa, Sri Lanka | 2016</span>
-
-* **Winner - IESL YMS Hackathon**  
-  <span style="color:gray;">Institution of Engineers Sri Lanka, Colombo, Sri Lanka | 2015</span>  
-  IESL YMS Hackathon, where our product was honored as the 'Product with the Highest Potential in Sri Lanka for the year 2015' by the director board of IESL.
-
-* **Mahapola Merit Higher Education Scholarship**  
-  <span style="color:gray;">Mahapola Higher Education Scholarship Trust Fund, Sri Lanka | 2014</span>  
-  For distinguished achievements at the G.C.E.(A/L) exam, where I ranked 33rd in Sri Lanka for the Advanced Level Mathematics Stream, awarded by the Government of Sri Lanka.
+- **Mahapola Education Scholarship**  
+  <span style="color:gray;">Mahapola Higher Education Scholarship Trust Fund, Sri Lanka | 2018</span>  
+  Awarded by the Government of Sri Lanka for distinguished achievements in the G.C.E. Advanced Level (A/L) examination.
