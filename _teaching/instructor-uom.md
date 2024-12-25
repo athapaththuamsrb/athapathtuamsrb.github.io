@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Instructor"
 collection: teaching
 type: "Undergraduate & Postgraduate"
@@ -18,4 +18,4 @@ location: "Moratuwa, Sri Lanka"
 - **CS3962 - Research and Report Writing:** UoM 2019
 - **CS3612 - Intelligent Systems:** UoM 2019, 2020
 - **CS3042 - Database Systems:** UoM 2020
-- **CS3202 - Software Engineering Project:** UoM 2018
+- **CS3202 - Software Engineering Project:** UoM 2018 -->
