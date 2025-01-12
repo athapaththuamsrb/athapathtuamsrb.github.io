@@ -16,7 +16,7 @@ redirect_from:
 
 ## Publications:
 
-[Citations: 228, h-index: 5, i10-index: 5](https://scholar.google.com/citations?user=p_fJiXwAAAAJ&hl)
+[Citations: 1, h-index: 1](https://scholar.google.com/citations?user=gB08xrMAAAAJ&hl)
 
 1. **Comprehensive analysis of public transit driver behavior in heterogeneous traffic conditions using unsupervised learning techniques**  
    <span style="color:gray;">Authors: **Rukshan Athapaththu**, Ratneswaran Shiveswarran, Uthayasanker Thayasivam</span>  
