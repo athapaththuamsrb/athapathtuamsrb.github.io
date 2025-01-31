@@ -44,11 +44,12 @@
     </url>
 
     <!-- Talks and Presentations -->
-    <url>
+    <!-- TODO -->
+    <!-- <url>
         <loc>https://athapaththuamsrb.github.io/talks</loc>
         <priority>0.5</priority>
         <changefreq>daily</changefreq>
-    </url>
+    </url> -->
 
     <url>
         <loc>https://athapaththuamsrb.github.io/teaching/instructor-uom</loc>
@@ -62,23 +63,26 @@
         <changefreq>monthly</changefreq>
     </url>
 
-    <url>
+    <!-- TODO -->
+    <!-- <url>
         <loc>https://athapaththuamsrb.github.io/talks/2018-11-28-data-drives</loc>
         <priority>0.3</priority>
         <changefreq>monthly</changefreq>
-    </url>
+    </url> -->
 
-    <url>
+    <!-- TODO -->
+    <!-- <url>
         <loc>https://athapaththuamsrb.github.io/talks/2019-11-01-user-localization</loc>
         <priority>0.3</priority>
         <changefreq>monthly</changefreq>
-    </url>
+    </url> -->
 
-    <url>
+    <!-- TODO -->
+    <!-- <url>
         <loc>https://athapaththuamsrb.github.io/talks/2023-07-13-transportation-data-warehouse</loc>
         <priority>0.3</priority>
         <changefreq>monthly</changefreq>
-    </url>
+    </url> -->
 
     <url>
         <loc>https://athapaththuamsrb.github.io/terms</loc>
